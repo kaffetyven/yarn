@@ -1,0 +1,9 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "my first yarn project",
+  "main": "index.js",
+  "repository": "https://github.com/kaffetyven/yarn.git",
+  "author": "kafetyven <morten_wa@hotmail.com>",
+  "license": "MIT"
+}
