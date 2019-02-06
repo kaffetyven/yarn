@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/kaffetyven/yarn.git",
   "author": "kafetyven <morten_wa@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
